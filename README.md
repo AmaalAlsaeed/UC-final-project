@@ -3,31 +3,19 @@
 <div dir="rtl">
 
 ### اسم الطالب
-
+امال عادل السعيد
 
 ### اسم المشروع
-
+دلل نفسك
 
 # شرح الفكرة
 المشكلة والحلول المطروحة إن وجدت
-
+موقع الكتروني تجاري يضم فيه جميع العطور العالمية
 
 # الأعمال المستقبلية
-
+موقع الكتروني لمدرسه 
 
 </div>
-
-> Fill out project information in English ⬇️
-### Student Name
-
-
-### Project Name
-
-# Idea
-Problem and solutions if found 
-
-
-# Future Work 
 
 
 
